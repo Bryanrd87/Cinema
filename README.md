@@ -1,5 +1,5 @@
 ## Movies challenge
-Welcome to the tech challenge for Lodgify’s Backend developers candidates.
+Welcome to the tech challenge for Backend developers candidates.
 
 ---
 
